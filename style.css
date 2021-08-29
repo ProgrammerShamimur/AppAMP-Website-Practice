@@ -164,10 +164,10 @@ body,h1,h2,h3,h4,h5,h6,p,a,span{
     font-size: 26px;
     font-weight: 400;
 }
-.banner-content h2{
+.banner-content h2 {
     font-size: 56px;
     font-weight: 700;
-    margin: 25px 0;
+    margin: 25px 0 38px 0;
 }
 .default-btn{
     display: inline-block;
@@ -530,8 +530,7 @@ input:focus-visible{
     width: 50%;
 }
 
-element.style {
-}
+
 .bt-content p {
     color: #767676;
     font-size: 23px;
@@ -562,7 +561,7 @@ element.style {
 }
 .blog-post-content p {
     color: #767676;
-    font-size: 23px;
+    font-size: 22px;
     line-height: 1.6em;
     font-weight: 300;
 }
